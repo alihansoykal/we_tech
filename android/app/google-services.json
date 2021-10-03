@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "202109880621",
+    "firebase_url": "https://nodemcu-ac498-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-ac498",
+    "storage_bucket": "nodemcu-ac498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202109880621:android:6cece2dc8ceaca53dcaba4",
+        "android_client_info": {
+          "package_name": "com.example.we"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2C0q0FHmsKLfZSoHCg81tCIB-yKXjoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202109880621-5viho1shk0fne47no8qdi540d1kpfno3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.we.werecyclemboile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202109880621:android:1db12263bf56a810dcaba4",
+        "android_client_info": {
+          "package_name": "com.we.werecyclemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2C0q0FHmsKLfZSoHCg81tCIB-yKXjoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202109880621-5viho1shk0fne47no8qdi540d1kpfno3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.we.werecyclemboile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202109880621:android:f67df45d5465cce9dcaba4",
+        "android_client_info": {
+          "package_name": "com.we.wetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2C0q0FHmsKLfZSoHCg81tCIB-yKXjoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202109880621-i3eqpjo8ntq8r8a045o77mih0dtuiqni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202109880621-5viho1shk0fne47no8qdi540d1kpfno3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.we.werecyclemboile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
